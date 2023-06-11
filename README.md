@@ -1,3 +1,8 @@
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
 # Netclan Sample
 
 This is a Flutter project that includes login functionality and a display page with various options similar to the netclan and its created for interview purposes only.
@@ -15,7 +20,7 @@ Explore Screen
 Refine Screen
    
    ![Refine](images/Refine.png)
-  
+
 
 
 
@@ -24,23 +29,25 @@ Refine Screen
 To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
+```
 
    git clone https://github.com/your-username/flutter-project.git
-
+```
 
 2. Open the project in your preferred Flutter IDE (e.g., Android Studio, Visual Studio Code).
 
 3. Install the necessary dependencies by running the following command in the terminal:
+```
 
    flutter pub get
-
+```
 
 4. Connect a device or start an emulator/simulator.
 
 5. Run the application using the following command:
-
+```
    flutter run
-
+```
 
 
 ## Features
@@ -65,6 +72,8 @@ Contributions are welcome! If you find any issues or want to add new features, f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
 
 
 
