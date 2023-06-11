@@ -1,8 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # Netclan Sample
 
 This is a Flutter project that includes login functionality and a display page with various options similar to the netclan and its created for interview purposes only.
