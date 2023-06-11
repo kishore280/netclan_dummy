@@ -24,19 +24,22 @@ Refine Screen
 To get started with this project, follow these steps:
 
 1. Clone the repository to your local machine:
-    git clone https://github.com/your-username/flutter-project.git
+
+   git clone https://github.com/your-username/flutter-project.git
 
 
 2. Open the project in your preferred Flutter IDE (e.g., Android Studio, Visual Studio Code).
 
 3. Install the necessary dependencies by running the following command in the terminal:
-    flutter pub get
+
+   flutter pub get
 
 
 4. Connect a device or start an emulator/simulator.
 
 5. Run the application using the following command:
-    flutter run
+
+   flutter run
 
 
 
