@@ -6,7 +6,7 @@ This is a Flutter project that includes login functionality and a display page w
  
  Login Screen
   
-  ![Login](images/Explore.png)
+  ![Login](images/login.png)
 
 Explore Screen
    
